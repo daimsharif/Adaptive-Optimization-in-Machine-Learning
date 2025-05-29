@@ -3,6 +3,11 @@
 This repository contains the final project for the CS7CS2: Optimisation for Machine Learning course at Trinity College Dublin for MSc in Computer science. The assignment investigates the use of Polyak's adaptive step size in mini-batch stochastic gradient descent (SGD), comparing its performance with constant step size SGD and Adam across various learning scenarios.
 
 ---
+## 📄 Full Report
+
+View the full technical report:
+
+👉 [final_assignmentOA_report.pdf](./final_assignmentOA_report.pdf)
 
 ## 📌 Project Overview
 
