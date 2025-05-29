@@ -32,7 +32,7 @@ The project benchmarks optimizer behavior on convergence speed, stability, and s
 ## 📂 Repository Structure
 
 📁 / (root)
-├── final_assignmentOA_report.pdf # Report (includes methodology and analysis)
+├── final_assignmentOA_report.pdf # Report (includes methodology and analysis \n
 ├── exam_2025.pdf # Assignment specification
 ├── final_code.ipynb # Final PyTorch codebase (optimizers + plots)
 ├── OAfinal1d.ipynb # Transformer experiments (Q1d)
